@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data analysis on python
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me - olamilekanakiode2020@gmail.com
-- 😄 Pronouns: ...
+- 😄 Gender: Male
 - ⚡ Fun fact: i love tech.
 
 <!---
